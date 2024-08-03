@@ -17,7 +17,7 @@ Pintree is an open-source project that aims to convert browser bookmarks into a 
 1. Install the [Pintree Bookmarks Exporter](https://chromewebstore.google.com/detail/pintree-bookmarks-exporte/mjcglnkikjidokobpfdcdmcnfdicojce) extension.
 2. Use the extension to export browser bookmarks and save the JSON file locally.
 
-![](https://github.com/Pintree-io/pintree/blob/main/assets/guide/step1.png)
+![](https://github.com/quaggalinux/pintree/blob/main/assets/guide/step1.png)
 
 ### Step 2: Fork the Project
 
