@@ -5,6 +5,13 @@
     "title": "收藏夹栏",
     "children": [
       {
+        "type": "link",
+        "addDate": 1729570813338,
+        "title": "Pintree",
+        "icon": "https://logo.clearbit.com/jianmop.github.io",
+        "url": "https://jianmop.github.io/pintree_BookMarkWebsite/"
+      },
+      {
         "type": "folder",
         "addDate": 1729568627257,
         "title": "SMU",
@@ -701,6 +708,20 @@
             "title": "如何设置 Windows 11/10 网络优先级（网卡顺序） - 系统极客",
             "icon": "https://logo.clearbit.com/www.sysgeek.cn",
             "url": "https://www.sysgeek.cn/network-adapter-priority-windows/#:~:text=%E5%85%88%E8%AF%B4%E7%BB%93%E8%AE%BA%EF%BC%8C%E9%BB%98%E8%AE%A4%E6%83%85%E5%86%B5%E4%B8%8B%EF%BC%8CWindows%2011%2F10%20%E7%9A%84%E7%BD%91%E5%8D%A1%E6%88%96%E7%BD%91%E7%BB%9C%E4%BC%98%E5%85%88%E7%BA%A7%E5%A6%82%E4%B8%8B%EF%BC%9A,%E4%BB%A5%E5%A4%AA%E7%BD%91%EF%BC%88LAN%EF%BC%89%3E%20Wi-Fi%EF%BC%88WLAN%EF%BC%89%3E%20%E8%9C%82%E7%AA%9D%E7%BD%91%E7%BB%9C%EF%BC%88%E7%A7%BB%E5%8A%A8%E5%AE%BD%E5%B8%A6%EF%BC%89"
+          },
+          {
+            "type": "link",
+            "addDate": 1729584862717,
+            "title": "MT论坛 - MT官网_MT管理器论坛_MT管理器_MT管理器教程_MT最新版本",
+            "icon": "https://logo.clearbit.com/bbs.binmt.cc",
+            "url": "https://bbs.binmt.cc/forum.php"
+          },
+          {
+            "type": "link",
+            "addDate": 1729584978798,
+            "title": "萝卜头IT论坛-大众化的电脑知识交流论坛 - Powered by Discuz!",
+            "icon": "https://logo.clearbit.com/bbs.luobotou.org",
+            "url": "https://bbs.luobotou.org/bstra/"
           }
         ]
       },
@@ -745,6 +766,13 @@
         "title": "橙篇AI - 用橙篇，就成了",
         "icon": "https://logo.clearbit.com/cp.baidu.com",
         "url": "https://cp.baidu.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1729572443872,
+        "title": "我的坚果云 - 坚果云 - 云盘|网盘|企业网盘|同步|备份|无限空间|免费网络硬盘|企业云盘",
+        "icon": "https://logo.clearbit.com/www.jianguoyun.com",
+        "url": "https://www.jianguoyun.com/d/home#/"
       },
       {
         "type": "link",
@@ -1088,6 +1116,62 @@
         "title": "Z-Library Project - Electronic library Z. Download books free",
         "icon": "https://logo.clearbit.com/z-lib.id",
         "url": "https://z-lib.id/"
+      },
+      {
+        "type": "folder",
+        "addDate": 1729573692343,
+        "title": "Zotera",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1729573696468,
+            "title": "Zotero 更新知网Translator翻译器教程(😂本视频和翻译插件没任何关系)_哔哩哔哩_bilibili",
+            "icon": "https://logo.clearbit.com/www.bilibili.com",
+            "url": "https://www.bilibili.com/video/BV1F54y1k73n/?vd_source=e9ad07b2d6a4e6173cc27fde3be4d560"
+          },
+          {
+            "type": "link",
+            "addDate": 1729573700535,
+            "title": "l0o0/translators_CN: Zotero translator中文网页抓取翻译器🎉This is Zotero translators for Chinese Sites(beta), not the official Zotero repo",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/l0o0/translators_CN?tab=readme-ov-file"
+          },
+          {
+            "type": "link",
+            "addDate": 1729573705393,
+            "title": "【一篇超级详细的Zotero安装、跨设备使用、插件安装入门教程】-CSDN博客",
+            "icon": "https://logo.clearbit.com/blog.csdn.net",
+            "url": "https://blog.csdn.net/qq_47128755/article/details/133963806"
+          },
+          {
+            "type": "link",
+            "addDate": 1729573708503,
+            "title": "【Zotero7插件】Translate for Zotero_哔哩哔哩_bilibili",
+            "icon": "https://logo.clearbit.com/www.bilibili.com",
+            "url": "https://www.bilibili.com/video/BV16DvveEEdx/?vd_source=e9ad07b2d6a4e6173cc27fde3be4d560"
+          },
+          {
+            "type": "link",
+            "addDate": 1729578109452,
+            "title": "Zotero软件——最全的翻译引擎API接入方法_zotero翻译api-CSDN博客",
+            "icon": "https://logo.clearbit.com/blog.csdn.net",
+            "url": "https://blog.csdn.net/m0_64037204/article/details/132336249"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1729583627695,
+        "title": "精简版Windows系统镜像",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1729583586012,
+            "title": "不忘初心 Windows10 LTSC2021 (19044.5011) x64 精简 美化版 太阳谷 无更新 (20240.10.10) 适合3-11代CPU | 缘本初见",
+            "icon": "https://logo.clearbit.com/www.52ybcj.com",
+            "url": "https://www.52ybcj.com/archives/1421"
+          }
+        ]
       }
     ]
   },
