@@ -396,13 +396,6 @@
           },
           {
             "type": "link",
-            "addDate": 1736059597657,
-            "title": "KMS在线激活Win11 / 10 / 8 / 7和Office / Visio / Project 2021~2010之DragonKMS神龙版-网络教程与技术 -亦是美网络",
-            "icon": "https://logo.clearbit.com/www.yishimei.cn",
-            "url": "http://www.yishimei.cn/network/319.html"
-          },
-          {
-            "type": "link",
             "addDate": 1736059597658,
             "title": "小鲸鱼搜书-电子书下载导航网站",
             "icon": "https://logo.clearbit.com/www.9871.org",
@@ -843,13 +836,6 @@
         "title": "异步社区-致力于优质IT知识的出版和分享",
         "icon": "https://logo.clearbit.com/www.epubit.com",
         "url": "https://www.epubit.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1736059597662,
-        "title": "MSDN",
-        "icon": "https://logo.clearbit.com/msdn.itellyou.cn",
-        "url": "https://msdn.itellyou.cn/"
       },
       {
         "type": "link",
@@ -1602,41 +1588,6 @@
       },
       {
         "type": "folder",
-        "addDate": 1736059597675,
-        "title": "精简版Windows系统镜像",
-        "children": [
-          {
-            "type": "link",
-            "addDate": 1736059597676,
-            "title": "工作台",
-            "icon": "https://logo.clearbit.com/www.medpeer.cn",
-            "url": "https://www.medpeer.cn/?is_login=1"
-          },
-          {
-            "type": "link",
-            "addDate": 1736059597677,
-            "title": "不忘初心 Windows10 LTSC2021 (19044.5011) x64 精简 美化版 太阳谷 无更新 (20240.10.10) 适合3-11代CPU",
-            "icon": "https://logo.clearbit.com/www.52ybcj.com",
-            "url": "https://www.52ybcj.com/archives/1421"
-          },
-          {
-            "type": "link",
-            "addDate": 1736059597678,
-            "title": "PyTorch Implementation of Kinect Fusion Algorithm For 3D Reconstruction",
-            "icon": "https://logo.clearbit.com/kaustubh-sadekar.github.io",
-            "url": "https://kaustubh-sadekar.github.io/PyTorch_KinectFusion/"
-          }
-        ]
-      },
-      {
-        "type": "link",
-        "addDate": 1736059597676,
-        "title": "Thinkbook 16P 2024降压防缩缸教程（全网最简，两步达成）",
-        "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-        "url": "https://zhuanlan.zhihu.com/p/845381973"
-      },
-      {
-        "type": "folder",
         "addDate": 1736059597677,
         "title": "Ventoy-PE",
         "children": [
@@ -1777,20 +1728,6 @@
       },
       {
         "type": "link",
-        "addDate": 1736059597678,
-        "title": "笔记本五年IT管家-ThinkBook/neo/E/S/R/扬天适用_多少钱_参数_图片_价格_用户评价_联想商城",
-        "icon": "https://logo.clearbit.com/item.lenovo.com.cn",
-        "url": "https://item.lenovo.com.cn/product/1027551.html"
-      },
-      {
-        "type": "link",
-        "addDate": 1736059597679,
-        "title": "Unity 2023安装教程",
-        "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
-        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NTU2NTMwNw==&mid=2247521120&idx=1&sn=1060ba32b50b38ac7c54a960adb61d33&chksm=cf3d4af4f84ac3e2f4be10e14362707105cbd8dbe0b9597e8efefe1f6deac9deaa76855e9d20&scene=178&cur_album_id=3284918486300983302#rd"
-      },
-      {
-        "type": "link",
         "addDate": 1736059597681,
         "title": "Thinkbook 16P 2024完全解锁高级BIOS、内存防降频、CPU降温和解锁超频（全网最简教程）",
         "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
@@ -1863,6 +1800,90 @@
             "title": "Docker 架构 | 菜鸟教程",
             "icon": "https://logo.clearbit.com/www.runoob.com",
             "url": "https://www.runoob.com/docker/docker-architecture.html"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1740032148908,
+        "title": "系统镜像及激活",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1736059597662,
+            "title": "MSDN",
+            "icon": "https://logo.clearbit.com/msdn.itellyou.cn",
+            "url": "https://msdn.itellyou.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1740028082252,
+            "title": "新MSDN",
+            "icon": "https://logo.clearbit.com/next.itellyou.cn",
+            "url": "https://next.itellyou.cn/Identity/Account/Login?ReturnUrl=%2FOriginal%2FIndex"
+          },
+          {
+            "type": "link",
+            "addDate": 1740032038167,
+            "title": "系统之家官网",
+            "icon": "https://logo.clearbit.com/xitong.jjxnwl.com",
+            "url": "https://xitong.jjxnwl.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1740032030755,
+            "title": "系统之家官网_最新win11系统_win10系统_Win7专业版、旗舰版-系统之家下载",
+            "icon": "https://logo.clearbit.com/www.xitongzhijia.com.cn",
+            "url": "https://www.xitongzhijia.com.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1740031988544,
+            "title": "MSDN系统库－致力于原版windows生态服务",
+            "icon": "https://logo.clearbit.com/www.xitongku.com",
+            "url": "https://www.xitongku.com/index.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1736059597657,
+            "title": "KMS在线激活Win11 / 10 / 8 / 7和Office / Visio / Project 2021~2010之DragonKMS神龙版-网络教程与技术 -亦是美网络",
+            "icon": "https://logo.clearbit.com/www.yishimei.cn",
+            "url": "http://www.yishimei.cn/network/319.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1740032315227,
+            "title": "zbezj/HEU_KMS_Activator",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/zbezj/HEU_KMS_Activator"
+          },
+          {
+            "type": "folder",
+            "addDate": 1736059597675,
+            "title": "精简版Windows系统镜像",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1736059597676,
+                "title": "工作台",
+                "icon": "https://logo.clearbit.com/www.medpeer.cn",
+                "url": "https://www.medpeer.cn/?is_login=1"
+              },
+              {
+                "type": "link",
+                "addDate": 1736059597677,
+                "title": "不忘初心 Windows10 LTSC2021 (19044.5011) x64 精简 美化版 太阳谷 无更新 (20240.10.10) 适合3-11代CPU",
+                "icon": "https://logo.clearbit.com/www.52ybcj.com",
+                "url": "https://www.52ybcj.com/archives/1421"
+              },
+              {
+                "type": "link",
+                "addDate": 1736059597678,
+                "title": "PyTorch Implementation of Kinect Fusion Algorithm For 3D Reconstruction",
+                "icon": "https://logo.clearbit.com/kaustubh-sadekar.github.io",
+                "url": "https://kaustubh-sadekar.github.io/PyTorch_KinectFusion/"
+              }
+            ]
           }
         ]
       }
