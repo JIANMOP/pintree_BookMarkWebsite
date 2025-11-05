@@ -6,10 +6,10 @@
     "children": [
       {
         "type": "link",
-        "addDate": 1761886105117,
+        "addDate": 1762325487852,
         "title": "Pintree",
         "icon": "https://logo.clearbit.com/jianmop.github.io",
-        "url": "https://jianmop.github.io/pintree_BookMarkWebsite/"
+        "url": "https://jianmop.github.io/pintree/"
       },
       {
         "type": "folder",
@@ -1250,6 +1250,13 @@
           },
           {
             "type": "link",
+            "addDate": 1762318365755,
+            "title": "DigVPS - 专注VPS测评，总有一款服务器适合您！",
+            "icon": "https://logo.clearbit.com/digvps.com",
+            "url": "https://digvps.com/"
+          },
+          {
+            "type": "link",
             "addDate": 1761886105376,
             "title": "SSHLLM - 通过SSH连接使用AI助手",
             "icon": "https://logo.clearbit.com/sshllm.top",
@@ -1289,6 +1296,13 @@
             "title": "开源精选 | 探索免费优质的开源工具，尽享数字自由！",
             "icon": "https://logo.clearbit.com/www.ossnav.com",
             "url": "https://www.ossnav.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1762243125794,
+            "title": "度盘解析",
+            "icon": "https://logo.clearbit.com/dp.nxina.cfd",
+            "url": "https://dp.nxina.cfd/user/parse"
           },
           {
             "type": "folder",
@@ -2239,20 +2253,6 @@
       },
       {
         "type": "link",
-        "addDate": 1761886105247,
-        "title": "NewsNow",
-        "icon": "https://logo.clearbit.com/localhost",
-        "url": "http://localhost:4444/"
-      },
-      {
-        "type": "link",
-        "addDate": 1761886105261,
-        "title": "DailyHot",
-        "icon": "https://logo.clearbit.com/hot.imsyy.top",
-        "url": "https://hot.imsyy.top/#/"
-      },
-      {
-        "type": "link",
         "addDate": 1761886105273,
         "title": "BiLiBiLi",
         "icon": "https://logo.clearbit.com/www.bilibili.com",
@@ -2605,6 +2605,13 @@
             "title": "LibreTV",
             "icon": "https://logo.clearbit.com/156libretv.jianmop.dpdns.org",
             "url": "https://156libretv.jianmop.dpdns.org/"
+          },
+          {
+            "type": "link",
+            "addDate": 1761979750807,
+            "title": "NewsNow",
+            "icon": "https://logo.clearbit.com/156newsnow.jianmop.dpdns.org",
+            "url": "https://156newsnow.jianmop.dpdns.org/"
           }
         ]
       },
@@ -2910,11 +2917,32 @@
         ]
       },
       {
-        "type": "link",
-        "addDate": 1761886105382,
-        "title": "Similarsites",
-        "icon": "https://logo.clearbit.com/www.similarsites.com",
-        "url": "https://www.similarsites.com/"
+        "type": "folder",
+        "addDate": 1761978814727,
+        "title": "热榜聚合",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1761978901066,
+            "title": "DailyHot - 热榜聚合",
+            "icon": "https://logo.clearbit.com/news.zpa666.top",
+            "url": "https://news.zpa666.top/"
+          },
+          {
+            "type": "link",
+            "addDate": 1761978888134,
+            "title": "全网新闻聚合平台 - 免费实时更新全球资讯",
+            "icon": "https://logo.clearbit.com/news.ylf-88.top",
+            "url": "https://news.ylf-88.top/"
+          },
+          {
+            "type": "link",
+            "addDate": 1761886105261,
+            "title": "DailyHot",
+            "icon": "https://logo.clearbit.com/hot.imsyy.top",
+            "url": "https://hot.imsyy.top/#/"
+          }
+        ]
       },
       {
         "type": "link",
@@ -2925,17 +2953,38 @@
       },
       {
         "type": "link",
-        "addDate": 1761886105414,
-        "title": "Eagle码力一哥",
-        "icon": "https://logo.clearbit.com/eagle.capitalren.com",
-        "url": "https://eagle.capitalren.com/?thread_id=thread_B34RYBtHQQXPgmZ9scc12KW4"
+        "addDate": 1761886105481,
+        "title": "Ayouth的影视站点推荐",
+        "icon": "https://logo.clearbit.com/ayouth.top",
+        "url": "https://ayouth.top/ayouth/video.html"
       },
       {
         "type": "link",
         "addDate": 1761886105432,
-        "title": "播剧网 | 2025最新电影在线观看_高清电视剧免费播放_美剧韩剧动漫资源大全_热门短剧_新片",
+        "title": "播剧网",
         "icon": "https://logo.clearbit.com/www.ysxq.cc",
         "url": "https://www.ysxq.cc/"
+      },
+      {
+        "type": "link",
+        "addDate": 1762241851991,
+        "title": "厂长资源 – 厂长影视官网 | 超清视频站",
+        "icon": "https://logo.clearbit.com/www.czzymovie.com",
+        "url": "https://www.czzymovie.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1761886105382,
+        "title": "Similarsites",
+        "icon": "https://logo.clearbit.com/www.similarsites.com",
+        "url": "https://www.similarsites.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1761886105414,
+        "title": "Eagle码力一哥",
+        "icon": "https://logo.clearbit.com/eagle.capitalren.com",
+        "url": "https://eagle.capitalren.com/?thread_id=thread_B34RYBtHQQXPgmZ9scc12KW4"
       },
       {
         "type": "link",
@@ -2950,13 +2999,6 @@
         "title": "豌豆PRO-全网影视聚合搜索",
         "icon": "https://logo.clearbit.com/www.wandou.la",
         "url": "https://www.wandou.la/"
-      },
-      {
-        "type": "link",
-        "addDate": 1761886105481,
-        "title": "Ayouth的影视站点推荐",
-        "icon": "https://logo.clearbit.com/ayouth.top",
-        "url": "https://ayouth.top/ayouth/video.html"
       },
       {
         "type": "link",
