@@ -1305,6 +1305,13 @@
             "url": "https://dp.nxina.cfd/user/parse"
           },
           {
+            "type": "link",
+            "addDate": 1762409485989,
+            "title": "网安",
+            "icon": "https://logo.clearbit.com/mianshi.muyuanhuck.cn",
+            "url": "https://mianshi.muyuanhuck.cn/index.html"
+          },
+          {
             "type": "folder",
             "addDate": 1761886105470,
             "title": "论坛",
@@ -1357,6 +1364,13 @@
                 "title": "全球主机交流论坛 - Powered by Discuz!",
                 "icon": "https://logo.clearbit.com/hostloc.com",
                 "url": "https://hostloc.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1762669218941,
+                "title": "恩山无线论坛 - Powered by Discuz!",
+                "icon": "https://logo.clearbit.com/www.right.com.cn",
+                "url": "https://www.right.com.cn/forum/forum.php"
               }
             ]
           },
@@ -1833,6 +1847,13 @@
                 "title": "Navo - 轻量导航站",
                 "icon": "https://logo.clearbit.com/navo.xianmu.de",
                 "url": "https://navo.xianmu.de/"
+              },
+              {
+                "type": "link",
+                "addDate": 1762675168258,
+                "title": "好用斋本斋",
+                "icon": "https://logo.clearbit.com/haoyongzhai.netlify.app",
+                "url": "https://haoyongzhai.netlify.app/#/"
               }
             ]
           },
@@ -2192,6 +2213,13 @@
             "title": "运维世界 - 运维世界的大陆站点",
             "icon": "https://logo.clearbit.com/www.ywsj365.cn",
             "url": "https://www.ywsj365.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1762672111333,
+            "title": "手机termux安装Linux_bilibili",
+            "icon": "https://logo.clearbit.com/www.bilibili.com",
+            "url": "https://www.bilibili.com/video/BV16u4y1M7yG?trackid=web_related_0.router-related-2206419-45xsh.1762672006026.165"
           }
         ]
       },
@@ -2332,6 +2360,13 @@
             "title": "Ask AI Questions · Question AI Search Engine · iAsk is a Free Answer Engine - Ask AI for Homework Help and Question AI for Research Assistance",
             "icon": "https://logo.clearbit.com/iask.ai",
             "url": "https://iask.ai/"
+          },
+          {
+            "type": "link",
+            "addDate": 1762833738557,
+            "title": "IMYAI智能助手",
+            "icon": "https://logo.clearbit.com/super.imyaigc.com",
+            "url": "https://super.imyaigc.com/chat"
           },
           {
             "type": "link",
@@ -2528,6 +2563,13 @@
             "title": "resources 面板 • Homarr",
             "icon": "https://logo.clearbit.com/156.jianmop.dpdns.org",
             "url": "https://156.jianmop.dpdns.org/"
+          },
+          {
+            "type": "link",
+            "addDate": 1762853044938,
+            "title": "Sun-Panel",
+            "icon": "https://logo.clearbit.com/156sun.jianmop.dpdns.org",
+            "url": "https://156sun.jianmop.dpdns.org/"
           },
           {
             "type": "link",
@@ -3853,6 +3895,13 @@
         "title": "【攻略】把电视打造成家庭影视+游戏中心，从FC到PS2全覆盖~_液晶电视_什么值得买",
         "icon": "https://logo.clearbit.com/post.smzdm.com",
         "url": "https://post.smzdm.com/p/ax6wzxpw/"
+      },
+      {
+        "type": "link",
+        "addDate": 1762747410362,
+        "title": "游戏网站大全 - 全网游戏资源导航平台",
+        "icon": "https://logo.clearbit.com/youxi.ggonav.com",
+        "url": "https://youxi.ggonav.com/"
       }
     ]
   },
